@@ -7,7 +7,7 @@
 
 # Unsupervised machine learning and computer vision based image analysis for fractography
 
-Pipeline: Feature Extraction + Dimensionality Reduction + 2D Projection + CLustering
+Pipeline: Feature Extraction + Dimensionality Reduction + 2D Projection + Clustering
 #
 - **Feature extraction**: pre-trained CNN (VGG16)
 - **Transfer learning**: ImageNet
