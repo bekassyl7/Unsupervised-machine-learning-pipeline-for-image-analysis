@@ -9,11 +9,11 @@
 
 Pipeline: Feature Extraction + Dimensionality Reduction + 2D Projection + CLustering
 #
- Feature extraction: pre-trained CNN (VGG16)
- Transfer learning: ImageNet
- Dimentionality reduction: PCA
- 2D Projection / feature reduction: t-SNE
- Clustering: K-means clustering
+- **Feature extraction**: pre-trained CNN (VGG16)
+- **Transfer learning**: ImageNet
+- **Dimentionality reduction**: PCA
+- **2D Projection / feature reduction**: t-SNE
+- **Clustering**: K-means clustering
 
 
 <!-- 
