@@ -8,7 +8,13 @@
 # Unsupervised machine learning and computer vision based image analysis for fractography
 
 Pipeline architecture: Feature Extraction + Dimensionality Reduction + 2D Projection + CLustering
-_Get started using GitHub in less than an hour._
+
+Feature extraction: pre-trained CNN (VGG16)
+Transfer learning: ImageNet
+Dimentionality reduction: PCA
+2D Projection / feature reduction: t-SNE
+Clustering: K-means clustering
+
 
 <!-- 
   <<< Author notes: Start of the course >>> 
