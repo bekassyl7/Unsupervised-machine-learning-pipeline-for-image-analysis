@@ -7,6 +7,7 @@
 
 # Unsupervised machine learning and computer vision based image analysis for fractography
 
+Pipeline architecture: Feature Extraction + Dimensionality Reduction + 2D Projection + CLustering
 _Get started using GitHub in less than an hour._
 
 <!-- 
